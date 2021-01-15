@@ -1,2 +1,2 @@
 # yashleenk
-Yashleen Kheterpal's Repositoary
+Yashleen Kheterpal's Repository
