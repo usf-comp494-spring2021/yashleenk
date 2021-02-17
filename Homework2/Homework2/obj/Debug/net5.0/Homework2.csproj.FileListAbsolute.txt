@@ -1,0 +1,15 @@
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/Homework2.deps.json
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/Homework2.runtimeconfig.json
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/Homework2.runtimeconfig.dev.json
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/Homework2.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/ref/Homework2.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/bin/Debug/net5.0/Homework2.pdb
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.csprojAssemblyReference.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.AssemblyInfoInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.AssemblyInfo.cs
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/ref/Homework2.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.pdb
+/Users/yashleenkheterpal/Desktop/C#/Homework2/Homework2/obj/Debug/net5.0/Homework2.genruntimeconfig.cache
