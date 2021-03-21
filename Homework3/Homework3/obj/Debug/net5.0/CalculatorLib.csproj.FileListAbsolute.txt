@@ -1,0 +1,12 @@
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/bin/Debug/net5.0/CalculatorLib.deps.json
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/bin/Debug/net5.0/CalculatorLib.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/bin/Debug/net5.0/ref/CalculatorLib.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/bin/Debug/net5.0/CalculatorLib.pdb
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.csprojAssemblyReference.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.AssemblyInfo.cs
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/ref/CalculatorLib.dll
+/Users/yashleenkheterpal/Desktop/C#/Homework3/Homework3/obj/Debug/net5.0/CalculatorLib.pdb

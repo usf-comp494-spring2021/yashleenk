@@ -5650,7 +5650,7 @@
       "outputPath": "/Users/yashleenkheterpal/Desktop/C#/HW3/CalcLibTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yashleenkheterpal/.nuget/NuGet/NuGet.Config"
+        "/Users/yashleenkheterpal/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

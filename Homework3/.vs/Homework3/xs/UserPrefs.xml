@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FED1F566-F289-407E-8438-F288649E72C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalcLibTest/UnitTest1.cs">
+    <Files>
+      <File FileName="CalcLibTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="Homework3/Calculator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework3" expanded="True">
+            <Node name="CalcLibTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="CalculatorLib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Homework3" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalcLibTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

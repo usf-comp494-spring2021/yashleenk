@@ -1,27 +1,22 @@
 ﻿<Properties StartupConfiguration="{54ED2F10-A847-413C-8CF3-D7657E75ABC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.TextProgrma FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CalcuLibTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalcLibTest/xUnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextProgrma/Program.cs">
     <Files>
-      <File FileName="HW3/Calc.cs" Line="1" Column="1" />
-      <File FileName="CalcLibTest/xUnitTest1.cs" Line="50" Column="10" />
+      <File FileName="HW3/Calc.cs" Line="50" Column="1" />
+      <File FileName="CalcLibTest/xUnitTest1.cs" />
+      <File FileName="TextProgrma/Program.cs" Line="43" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HW3" expanded="True">
             <Node name="CalculatorLib" expanded="True" />
-            <Node name="CalcuLibTest" expanded="True">
-              <Node name="xUnitTest1.cs" selected="True" />
+            <Node name="CalcuLibTest" expanded="True" />
+            <Node name="TextProgrma" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="HW3" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
