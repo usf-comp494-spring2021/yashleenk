@@ -1,0 +1,15 @@
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/TextProgram.deps.json
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/TextProgram.runtimeconfig.json
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/TextProgram.runtimeconfig.dev.json
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/TextProgram.dll
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/ref/TextProgram.dll
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/bin/Debug/net5.0/TextProgram.pdb
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.csprojAssemblyReference.cache
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.AssemblyInfoInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.AssemblyInfo.cs
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.csproj.CoreCompileInputs.cache
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.dll
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/ref/TextProgram.dll
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.pdb
+/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/Debug/net5.0/TextProgram.genruntimeconfig.cache

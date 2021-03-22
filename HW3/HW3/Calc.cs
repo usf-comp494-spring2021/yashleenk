@@ -5,34 +5,33 @@ namespace HW3
 
     public class Calc
     {
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="a"></param>
-        /// <param name="b"></param>
-        /// <returns></returns>
-        public double add(double a, double b)
+        // add two integers and return the sum
+        public double Add(double a, double b)
         {
             return a + b;
         }
 
-        public double sub(double a, double b)
+        // Substract two integers and return the sum
+        public double Substract(double a, double b)
         {
             return a - b;
         }
 
-        public double mult(double a, double b)
+        // Multiply two integers and return the sum
+        public double Multiply(double a, double b)
         {
             return a * b;
 
         }
 
-        public double divi(double a, double b)
+        // Divide two integers and return the sum
+        public double Divide(double a, double b)
         {
             return a / b;
         }
 
-        public double findMean(double[] a, int n)
+        // finding mean of an array of n numbers
+        public double FindMean(double[] a, int n)
         {
             double sum = 0;
             for (int i = 0; i < n; i++)
@@ -41,7 +40,8 @@ namespace HW3
             return (double)(sum / n);
         }
 
-        public double findMedian(double[] a, int n)
+        // finding median of an array of n numbers
+        public double FindMedian(double[] a, int n)
         {
             Array.Sort(a);
 

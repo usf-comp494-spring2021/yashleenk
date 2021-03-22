@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TextProgrma/1.0.0": {
+        "runtime": {
+          "TextProgrma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextProgrma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

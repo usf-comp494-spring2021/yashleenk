@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "HW3\Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcuLibTest", "CalcLibTest\CalcuLibTest.csproj", "{54ED2F10-A847-413C-8CF3-D7657E75ABC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProgrma", "TextProgrma\TextProgrma.csproj", "{C1C728B1-8523-4C68-8F05-9462A1185919}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProgram", "TextProgrma\TextProgram.csproj", "{C1C728B1-8523-4C68-8F05-9462A1185919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

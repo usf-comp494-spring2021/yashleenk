@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/TextProgrma.csproj",
-      "projectName": "TextProgrma",
-      "projectPath": "/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/TextProgrma.csproj",
+      "projectUniqueName": "/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/TextProgram.csproj",
+      "projectName": "TextProgram",
+      "projectPath": "/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/TextProgram.csproj",
       "packagesPath": "/Users/yashleenkheterpal/.nuget/packages/",
       "outputPath": "/Users/yashleenkheterpal/Desktop/C#/HW3/TextProgrma/obj/",
       "projectStyle": "PackageReference",
