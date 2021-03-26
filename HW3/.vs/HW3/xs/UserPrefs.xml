@@ -4,7 +4,7 @@
     <Files>
       <File FileName="HW3/Calc.cs" Line="41" Column="10" />
       <File FileName="CalcLibTest/xUnitTest1.cs" />
-      <File FileName="TextProgrma/Program.cs" Line="81" Column="13" />
+      <File FileName="TextProgrma/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,14 +16,6 @@
             <Node name="CalcuLibTest" expanded="True" />
             <Node name="TextProgram" expanded="True" />
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="HW3" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

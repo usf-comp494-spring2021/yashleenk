@@ -5,6 +5,7 @@ namespace TextProgram
 {
     class Program
     {
+        // Main function
         static void Main(string[] args)
         {
 

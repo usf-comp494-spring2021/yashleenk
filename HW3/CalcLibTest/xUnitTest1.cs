@@ -4,12 +4,15 @@ using Xunit;
 
 namespace CalcuLibTest
 {
+
     /// <summary>
-    ///  Testing the methods in Calc class
+    /// Testing the methods in Calc class
     /// </summary>
     public class xUnitTest1
     {
-        
+        /// <summary>
+        /// 
+        /// </summary>
         [Fact]
         public void TestAdd2and4()
         {

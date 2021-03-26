@@ -5,32 +5,57 @@ namespace HW3
 
     public class Calc
     {
-        // add two integers and return the sum
+        /// <summary>
+        /// This class add two integers and return the sum
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public double Add(double a, double b)
         {
             return a + b;
         }
 
-        // Substract two integers and return the sum
+        /// <summary>
+        /// This class substract two integers and return the sum
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public double Substract(double a, double b)
         {
             return a - b;
         }
 
-        // Multiply two integers and return the sum
+        /// <summary>
+        /// This class multiply two integers and return the sum
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public double Multiply(double a, double b)
         {
             return a * b;
 
         }
 
-        // Divide two integers and return the sum
+        /// <summary>
+        /// This class divide two integers and return the sum
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public double Divide(double a, double b)
         {
             return a / b;
         }
 
-        // finding mean of an array of n numbers
+        /// <summary>
+        /// This class finds mean of an array of n numbers
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public double FindMean(double[] a, int n)
         {
             double sum = 0;
@@ -38,9 +63,14 @@ namespace HW3
                 sum += a[i];
 
             return (double)(sum / n);
-        }
+        } 
 
-        // finding median of an array of n numbers
+        /// <summary>
+        /// This class finds median of an array of n numbers
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public double FindMedian(double[] a, int n)
         {
             Array.Sort(a);
