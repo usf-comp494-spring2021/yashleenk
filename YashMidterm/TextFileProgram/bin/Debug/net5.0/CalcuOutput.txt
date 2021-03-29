@@ -1,0 +1,5 @@
+There are the elements in the sorted array: 
+1.5 3.3 6.28 9.5 9.9 9.9 10.5 13 19.9 27.8 39.8 45.2 54.8 77.7 88.89 
+
+The Mean of the given numbers is: 27.864666666666665
+The Median of the given numbers is: 13 
