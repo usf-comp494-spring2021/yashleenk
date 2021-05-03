@@ -1,0 +1,35 @@
+﻿@model IEnumerable<HourlyForecast>
+
+@{
+    ViewData["Title"] = "Hourly";
+}
+<h2> Deatailed Weather</h2>
+
+
+@foreach (var item in Model)
+{
+    <img class="d-block w-50" src="~/images//@item.imagePath"
+         alt="@item.imagePath" />
+
+    <tr>
+        <td>
+            <b>Temperature: </b>@item.temperature<br />
+            <b>FeelsLike: </b>@item.feelsLike<br />
+            <b>Descriptor: </b>@item.descriptor<br />
+            <b>Image path: </b>@item.imagePath<br />
+            <b>Wind Speed: </b>@item.windSpeed<br />
+            <b>Wind Direction: </b>@item.windDirection<br />
+            <b>Pressure: </b>@item.pressure<br />
+            <b>Precipitation percent: </b>@item.precipitationPercent<br />
+            <b>Precipitation Amount: </b>@item.precipitationAmount<br />
+            <b>Cloud Cover: </b>@item.cloudCover<br />
+            <b>Dew Point: </b>@item.dewPoint<br />
+            <b>Humidity: </b>@item.humidity<br />
+            <b>--------------------------------------------</b><br />
+        </td>
+
+    </tr>
+
+}
+
+

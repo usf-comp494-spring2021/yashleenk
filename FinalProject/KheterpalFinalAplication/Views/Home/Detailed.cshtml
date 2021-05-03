@@ -1,0 +1,51 @@
+﻿
+
+
+@model KheterpalFinalAplication.Models.DetailedForecast
+
+@{
+    ViewData["Title"] = "Detailed";
+}
+
+<h2> Deatailed Weather</h2>
+
+<img class="d-block w-50"src="~/images//@Model.imagePath"
+     alt="@Model.imagePath"/>
+
+<tr>
+    <td>
+        <b> Location: </b>@Model.location<br />
+        <b>Temperature: </b>@Model.temperature<br />
+        <b>FeelsLike: </b>@Model.feelsLike<br />
+        <b>Descriptor: </b>@Model.descriptor<br />
+        <b>Image path: </b>@Model.imagePath<br />
+        <b>Wind Speed: </b>@Model.windSpeed<br />
+        <b>Wind Direction: </b>@Model.windDirection<br />
+        <b>Pressure: </b>@Model.pressure<br />
+        <b>Visibility: </b>@Model.visibility<br />
+        <b>Clouds: </b>@Model.clouds<br />
+        <b>Humidity: </b>@Model.humidity<br />
+        <b>Rainfall: </b>@Model.rainfall<br />
+        <b>Snowfall: </b>@Model.snowfall<br />
+    </td>
+
+</tr>
+
+@*@foreach (var item in ViewData["Title"] as )
+    {
+        <p>Forecast Date: @Html.DisplayFor(modelItem => .forecastDate)</p>
+        <p>@Html.DisplayFor(modelItem => item.temperature)</p>
+        <p>@Html.DisplayFor(modelItem => item.feelsLike)</p>
+        <p>@Html.DisplayFor(modelItem => item.descriptor)</p>
+        <p>@Html.DisplayFor(modelItem => item.imagePath)</p>
+        <p>@Html.DisplayFor(modelItem => item.windSpeed)</p>
+        <p>@Html.DisplayFor(modelItem => item.windDirection)</p>
+        <p>@Html.DisplayFor(modelItem => item.pressure)</p>
+        <p>@Html.DisplayFor(modelItem => item.precipitationPercent)</p>
+        <p>@Html.DisplayFor(modelItem => item.precipitationAmount)</p>
+        <p>@Html.DisplayFor(modelItem => item.cloudCover)</p>
+        <p>@Html.DisplayFor(modelItem => item.dewPoint)</p>
+        <p>@Html.DisplayFor(modelItem => item.humidity)</p>
+    }*@
+
+

@@ -1,0 +1,26 @@
+﻿@model KheterpalFinalAplication.Models.WeatherForecast
+
+@{
+    ViewData["Title"] = "Weather Forecast";
+}
+
+<h1>Weather Forecast</h1>
+
+<img class="d-block w-50" src="~/images//@Model.imagePath"
+     alt="@Model.imagePath" />
+
+
+<tr>
+    <td>
+        <b> Location: </b>@Model.location<br />
+        <b>Temperature: </b>@Model.temperature<br />
+        <b>FeelsLike: </b>@Model.feelsLike<br />
+        <b>Descriptor: </b>@Model.descriptor<br />
+        <b>Image path: </b>@Model.imagePath<br />
+        <b>Wind Speed: </b>@Model.windSpeed<br />
+        <b>Wind Direction: </b>@Model.windDirection<br />
+        <b>Pressure: </b>@Model.pressure<br />
+    </td>
+
+</tr>
+
